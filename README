@@ -1,1 +1,12 @@
-"First commit for SPLJava"
+Tujuan:
+  - Membuat sebuah program text-based dengan bahasa pemrograman Java yang dapat menyelesaikan:
+      + Sistem Persamaan Linear (SPL), baik yang memiliki solusi unik, banyak (dalam parameter), maupun tidak ada solusi. Jika tidak ada
+        solusi cukup tuliskan "Tidak ada solusi"
+      + Persamaan interpolasi
+
+Manajemen file:
+  - File source code (ekstensi java) disimpan dalam sebuah folder bernama "src" tanpa tanda kutip.
+  - File hasil kompilasi / class java (ekstensi class) disimpan dalam sebuah folder bernama "bin" tanpa tanda kutip.
+  - File eksternal untuk masalah input output (I/O) disimpan di luar kedua folder bin dan src.
+  - Program harus mampu membaca input dari command line dan file eksternal.
+  - Program harus mampu mengeluarkan output ke command line dan file eksternal.
